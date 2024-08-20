@@ -1,0 +1,6 @@
+
+node-modules
+ignored
+package-lock.json
+build
+NEXT.txt
